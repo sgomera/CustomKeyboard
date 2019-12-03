@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyCustomKeyboard</string>
+    <string name="children_keyboard_label">ChildrenKeyboard</string>
+    <string name="children_keyboard_settings_label">Children Keyboard Settings</string>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="keyboard_deep_backgroung_color">#e6e6e6</color>
+    <color name="keyboard_key_preview_background_color">#5d5d5d</color>
+
+    <!--Key colors-->
+    <color name="keyboard_key_text_color">#000</color>
+    <color name="keyboard_key_stroke_color">#000</color>
+    <!--if key color is flat:-->
+    <color name="keyboard_background_color">#fff</color>
+    <!--if using gradient:-->
+    <color name="keyboard_key_gradient_start_color">#fff</color>
+    <color name="keyboard_key_gradient_end_color">#ccc</color>
+
+    <color name="keyboard_shadow">#b3b3b3</color>
+
+    <color name="keyboard_pressed">#95a5a6</color>
+    <color name ="keyboard_vowel">#fff9c5</color>
+</resources>
+
+
+<!--added keyboad_deep_background_color,
+keyboard_key_preview_background_color-->
